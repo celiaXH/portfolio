@@ -1,4 +1,3 @@
-# portfolio
-Here you will find my recent projects
-portfolio link: https://celiaxh.github.io/portfolio/
-######Check out [my portfolio](https://github.com/pandao/editor.md "Heading link")
+### Hi I am Chelsea!
+### Check out [My Portfolio](https://github.com/pandao/editor.md "Heading link") to find my recent ML projects.
+
